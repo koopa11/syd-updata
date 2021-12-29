@@ -1,1 +1,1 @@
-rm -rf /storage/emulated/0/android/data/com.syd.school/syd schools 1.0.apk
+rm -rf /storage/emulated/0/android/data/com.syd.school/syd_school.apk
