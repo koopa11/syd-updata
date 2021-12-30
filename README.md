@@ -5,3 +5,4 @@
 # inst is 27_1q
 # telegrame is @O0OOE
 # sorry but this page dow not help you to crack this app 
+# if you want crack go to firebase database is her
